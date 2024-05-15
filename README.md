@@ -20,6 +20,7 @@ O projeto precisa ser publicado numa das duas opções abaixo:
 
 ## Requisitos de avaliação
 
+- Faça um fork deste repositório;
 - As cidades listadas devem ser:
     - Dallol (NG);
     - Fairbanks (US);
