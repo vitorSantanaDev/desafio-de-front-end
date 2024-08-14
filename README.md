@@ -1,6 +1,6 @@
 # Desafio de Front-end
 
-Criar um web app que liste cidades específicas (listadas abaixo) e, após a seleção de alguma por parte do usuáio, exiba uma tela de detalhes da cidade escolhida com informações do seu clima através de uma API pública de dados meteorológicos.
+Criar um web app que liste cidades específicas (listadas abaixo) e, após a seleção de alguma por parte do usuário, exiba uma tela de detalhes da cidade escolhida com informações do seu clima através de uma API pública de dados meteorológicos.
 
 ## Sugestões de APIs
 
