@@ -27,7 +27,9 @@ const Main = () => {
   const { colors } = useTheme()
   const [weather, setWeather] = useState<IWeather | null>(null)
 
-  const [selectedOption, setSelectedOption] = useState<ISelect>(CITIES[0])
+  const [selectedOption, setSelectedOption] = useState<ISelect>(
+    CITIES.find((city) => city.value === 'Recife') || CITIES[0]
+  )
 
   const isSunny =
     Number(weather?.temperature) > 27 && new Date().getHours() < 18
