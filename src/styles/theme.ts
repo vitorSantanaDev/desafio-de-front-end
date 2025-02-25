@@ -25,7 +25,7 @@ export default {
   colors: {
     white: '#FAFAFA',
     black: '#030517',
-    blueDark: '#134cb5',
+    blueDark: '#134cbf',
     blueLight: '#54C1FF'
   },
   spacings: {

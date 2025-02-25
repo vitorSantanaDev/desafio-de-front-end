@@ -50,6 +50,8 @@ export const TodayForecast = styled.div<Pick<WrapperProps, '$climate'>>`
   `}
 `
 
+export const ForecastItemsWrapper = styled.div``
+
 export const ForecastItem = styled.div<
   Pick<WrapperProps, '$climate'> & { $current: boolean }
 >`
